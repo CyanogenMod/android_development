@@ -41,9 +41,9 @@
     <string name="summary_transition_animations">Скорость анимации при переключении между экранами</string>
     <string name="dialog_title_transition_animations">Скорость анимации</string>
     
-    <string name="title_fancy_ime_animations">Fancy input animations</string>
-    <string name="summary_on_fancy_ime_animations">Use fancier animations for input method windows</string>
-    <string name="summary_off_fancy_ime_animations">Use normal animations for input method windows</string>
+    <string name="title_fancy_ime_animations">Вычурная анимация</string>
+    <string name="summary_on_fancy_ime_animations">Использовать вычурную анимацию для окон методов ввода</string>
+    <string name="summary_off_fancy_ime_animations">Использовать стандартные анимации для окон методов ввода</string>
     
     <string name="title_haptic_feedback">Отдача вибрацией</string>
     <string name="summary_on_haptic_feedback">Использовать отдачу для взаимодействия с пользователем</string>
