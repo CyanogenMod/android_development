@@ -25,7 +25,7 @@
     <string name="title_battery_history">История использования аккумулятора</string>
     <string name="summary_battery_history">Суммарная информация об использовании аккумулятора</string>
     
-    <string name="title_battery_information"></string>
+    <string name="title_battery_information">Информация об аккумуляторе</string>
     <string name="summary_battery_information">Текущий статус аккумулятора</string>
     
     <string name="title_usage_statistics">Статистика использования</string>
@@ -34,8 +34,8 @@
     <string name="general_title">Основные</string>
     
     <string name="title_window_animations">Анимация окон</string>
-    <string name="summary_window_animations">Speed of animations in individual windows</string>
-    <string name="dialog_title_window_animations">Select window speed</string>
+    <string name="summary_window_animations">Скорость анимации определенных окон</string>
+    <string name="dialog_title_window_animations">Выберите скорость анимации</string>
     
     <string name="title_transition_animations">Промежуточные анимации</string>
     <string name="summary_transition_animations">Скорость анимации при переключении между экранами</string>
