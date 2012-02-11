@@ -149,13 +149,13 @@
     <string name="perm_desc_text">Popis :  </string>
     <string name="perm_group_text">Skupina :  </string>
     <string name="perm_protection_text">Stupe\ Ochrany :  </string>
-    <string name="perm_source_text">Zdrojov7 bal9k :  </string>
+    <string name="perm_source_text">Zdrojový balík :  </string>
     <string name="perm_list_header_text">Apps using permission  </string>
     <string name="source_uid_text">Source uid :  </string>
     <string name="shared_pkgs_text">Packages accessing via shared uid :  </string>
 
     <!-- AccountsTester -->
-    <string name="accounts_tester_app_name">Test =U4tov</string>
+    <string name="accounts_tester_app_name">Test =Učtov</string>
     <string name="accounts_tester_get_accounts_by_type">Podľa Typu</string>
     <string name="accounts_tester_get_all_accounts">Všetky</string>
     <string name="accounts_tester_add_account">Pridať</string>
@@ -168,7 +168,7 @@
     <string name="accounts_tester_account_context_menu_title">operácie účtu</string>
     <string name="accounts_tester_do_get_auth_token">Ok</string>
     <string name="accounts_tester_enter_auth_token_type">Enter the authtoken type:</string>
-    <string name="accounts_tester_update_credentials">Obniviť Poverenia</string>
+    <string name="accounts_tester_update_credentials">Obnoviť Poverenia</string>
     <string name="accounts_tester_confirm_credentials">Potvrdiť Poverenia</string>
     <string name="accounts_tester_clear_password">Zmazať Heslá</string>
     <string name="accounts_tester_edit_properties">Vlastnosti</string>
