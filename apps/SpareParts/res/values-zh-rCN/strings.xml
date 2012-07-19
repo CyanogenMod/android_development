@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/* //device/apps/common/assets/res/any/strings.xml
+**
+** Copyright 2006, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+-->
+<resources>
+    <string name="app_label">高级设置</string>
+
+    <string name="device_info_title">设备信息</string>
+
+    <string name="title_battery_history">电量状态</string>
+    <string name="summary_battery_history">显示应用程序的电量消耗情况</string>
+
+    <string name="title_battery_information">电池信息</string>
+    <string name="summary_battery_information">显示当前电池状态</string>
+
+    <string name="title_usage_statistics">使用情况统计</string>
+    <string name="summary_usage_statistics">显示应用程序的使用情况</string>
+
+    <string name="general_title">通用设置</string>
+
+    <string name="title_window_animations">窗口动画速度</string>
+    <string name="summary_window_animations">调节窗口动画速度</string>
+    <string name="dialog_title_window_animations">选择动画速度</string>
+
+    <string name="title_transition_animations">窗口切换速度</string>
+    <string name="summary_transition_animations">调节窗口切换速度</string>
+    <string name="dialog_title_transition_animations">选择切换速度</string>
+
+    <string name="title_fancy_ime_animations">输入法特效</string>
+    <string name="summary_on_fancy_ime_animations">使用输入法特效</string>
+    <string name="summary_off_fancy_ime_animations">不使用输入法特效</string>
+
+    <string name="title_haptic_feedback">触控反馈</string>
+    <string name="summary_on_haptic_feedback">对用户操作进行震动反馈</string>
+    <string name="summary_off_haptic_feedback">对用户操作不进行震动反馈</string>
+
+    <string name="title_font_size">字体大小</string>
+    <string name="summary_font_size">系统全局字体大小</string>
+    <string name="dialog_title_font_size">选择字体大小</string>
+
+    <string name="title_end_button">挂机键键功能</string>
+    <string name="summary_end_button">设定挂机键的功能</string>
+    <string name="dialog_title_end_button">选择功能</string>
+
+    <string name="applications_title">应用程序</string>
+
+    <!-- Sound & display settings screen, compatibility mode check box label -->
+    <string name="compatibility_mode_title">兼容模式</string>
+    <!-- Sound & display settings screen, compatibility mode option summary text when check box is selected -->
+    <string name="compatibility_mode_summary_on">以兼容模式运行就版本的应用程序。\n（需要重新启动）</string>
+    <!-- Sound & display settings screen, compatibility mode option summary text when check box is clear -->
+    <string name="compatibility_mode_summary_off">直接运行旧版本应用程序。\n（需要重新启动）</string>
+</resources>
